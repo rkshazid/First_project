@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  1 00:39:39 2025
 
-@author: shazi
+@author: shazid
 """
 import random
 
