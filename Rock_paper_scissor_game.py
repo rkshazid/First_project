@@ -27,7 +27,7 @@ def determine_winner(rps_choice, pc_choice):
     elif ((rps_choice=="r" and pc_choice=="s") or 
           (rps_choice=="p" and pc_choice=="r") or
           (rps_choice=="s" and pc_choice=="p")):
-        print("You WIn!")
+        print("You Win!")
     else:
         print("You Lose!")
 
